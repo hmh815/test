@@ -12,6 +12,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 @EnableFeignClients
 @EnableHystrix
 @EnableHystrixDashboard
+//主程序
 public class HahaApigatewayApplication {
 
 	public static void main(String[] args) {
